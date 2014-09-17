@@ -1,7 +1,4 @@
----
-title: "Getting and Cleaning Data Course Project"
-output: html_document
----
+# _Getting and Cleaning Data Course Project_
 
 This repository contains the following files:
 

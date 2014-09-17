@@ -1,7 +1,4 @@
----
-title: "Codebook"
-output: html_document
----
+# _Codebook_
 
 **Features** :
 ```
